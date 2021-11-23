@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 -->
-- 🌱 I’m currently learning Quantum Computing.
+- 🌱 I’m currently Collecting Quran and Worldly Data.
 - 👯 I’m looking to collaborate on Computer Vision, Natural Processing, Deep Learning.
 - 🤔 I’m looking for help with AI.
 - 💬 Ask me about AI.
