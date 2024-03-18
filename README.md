@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 - 👯 I’m looking to collaborate on Computer Vision, Natural Processing, Deep Learning.
-- 🤔 I’m looking for help with AI.
+- 🤔 I will help with AI.
 - 💬 Ask me about AI.
 - 📫 How to reach me: ahkhalwai55@gmail.com
 - 😄 Pronouns: Aftab Hasan.
